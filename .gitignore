@@ -1,0 +1,9 @@
+# Schriften: Fremdmaterial, siehe README
+fonts/
+
+# Von Python erzeugt
+__pycache__/
+
+# Systemdateien
+Thumbs.db
+desktop.ini
